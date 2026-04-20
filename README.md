@@ -8,9 +8,11 @@ Along the way, I’ve led cross-functional teams as a Scrum Master, engineered f
 
 
 💡 What I Do
+
+
 --> Redefine AI applications to amplify human creativity, insight, and decision‑making
 
--->Design and lead learning systems that drive real performance change (behavioral programs, Agile workflows)
+--> Design and lead learning systems that drive real performance change (behavioral programs, Agile workflows)
 
 -->Build full-stack apps with accessible, user-centered design (WCAG 2.1 AA, keyboard navigation, sensory-friendly UI)
 
